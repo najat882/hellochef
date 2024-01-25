@@ -1,0 +1,285 @@
+@media screen and (max-width: 768px){
+    .HEAD{
+        width: 120px;
+        margin-left: 90px;
+    }
+    .listitems{
+        display: none;
+    }
+    .lists{
+        display: block;
+        width: 30px;
+        margin-right: 60px;
+        height: 30px;
+        margin-top: 25px;
+    }
+    .heading2{
+        width:300px;
+        text-align: center;
+        font-weight: 600;
+        font-size: xx-large;
+        color: rgba(0, 0, 0, 0.801);
+    }
+    .div2{
+        width: 320px;
+        height: 60vh;
+        background-image: url(images/mobile-banner.webp);
+        background-size: cover;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .paragraph{
+        width: 300px;
+        text-align: center;
+        font-weight:600;
+        color: rgba(0, 0, 0, 0.404);
+    }
+    .heading3{
+        margin-left:100px;
+        margin-top: 20px;
+        font-weight: 600;
+        font-size: large;
+        width: 200px;
+    }
+    .paragraph1{
+        margin-bottom: 60px;
+        margin-left: 10px;
+        width: 300px;
+    }
+    .div3{
+        margin-top: 40px;
+        margin-left: 10px;
+        margin-right: 300px;
+        color: rgba(0, 0, 0, 0.815);
+    }
+    .div4{
+        display: flex;
+        flex-direction: column;
+    }
+    .div8{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .div9{
+        background-image: url(../images/Family_cooking\ \(1\).webp);
+        width: 100%;
+        height: 50vh;
+        background-size: cover;
+    }
+    .div10{
+        background-color: rgba(255,148,110,.2);
+        width: 100%;
+        height: 65vh;
+    }
+    .heading5{
+        color: red;
+        font-weight: bolder;
+        font-size: large;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-family:Helvetica,Arial,sans-serif;
+        text-align: left;
+    }
+    .paragraph2{
+        text-align: center;
+        font-weight: 100;
+        margin-top: 5px;
+        margin-left: 30px;
+        width: 250px;
+        font-size: small;
+    }
+    .de1{
+        font-weight: 700;
+        color: rgba(0, 0, 0, 0.863);
+        font-size: small;
+        margin-top: 5px;
+        
+    }
+    .de2{
+        font-weight: 700 ;
+        color: rgba(0, 0, 0, 0.863);
+        font-size: small;
+        margin-top: 5px;
+    }
+    .de3{
+        font-weight: 700 ;
+        color: rgba(0, 0, 0, 0.863);
+        font-size: small;
+        margin-top: 5px;
+    }
+    .de4{
+        font-weight: 700 ;
+        color: rgba(0, 0, 0, 0.863);
+        font-size: small;
+        margin-top: 5px;
+    }
+    .span1{
+        color: rgba(255, 123, 0, 0.829);
+        font-weight: bolder;
+        font-size:large;
+        margin-right: 10px;
+    }
+    .span2{
+        color: rgba(255, 123, 0, 0.829);
+        font-weight: bolder;
+        font-size: large;
+        margin-right: 10px;
+    }
+    .span3{
+        color: rgba(255, 123, 0, 0.829);
+        font-weight: bolder;
+        font-size: large;
+        margin-right: 10px;
+    }
+    .span4{
+        color: rgba(255, 123, 0, 0.829);
+        font-weight: bolder;
+        font-size: large;
+        margin-right: 10px;
+    }
+    .div17{
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .button1{
+       padding: 10px 20px;
+        background-color: red;
+        color: white;
+        border-radius: 40px;
+       border-color: rgba(255, 255, 255, 0);
+       width: fit-content;
+       font-weight: 600;
+       margin-top: 1px;
+       font-size: small;
+    }
+    .head1{
+  
+        font-size: large;
+        font-weight: bolder;
+       color: rgba(0, 0, 0, 0.829);
+       margin-left: 50px;
+       width: 280px;
+       text-align: center;
+    }
+    .pg1{
+        width: 350px;
+        color: rgba(0, 0, 0, 0.651);
+        font-weight: 100;
+        font-size: small;
+        text-align: center;
+        margin-left: 40px;
+    }
+    .div11{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+       margin-top: 50px;
+    }
+    .arrow{
+        display: none;
+    }
+    .arrowright{
+        display: none;
+    }
+    .button2{
+       padding: 10px 30px;
+        background-color: rgb(241, 26, 26);
+        border-radius: 40px;
+        color: white;
+        font-size: large;
+        border-color: white;
+        margin-top: 30px;
+    }
+    .divv1{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    .div16{
+        display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 0px;
+    color: rgba(0, 0, 0, 0.664);
+    }
+    .img3{
+        width: 190px;
+        margin-right: 20PX;
+        
+    }
+    .img4{
+        width: 190px;
+        margin-right: 20PX;
+    }
+    .img5{
+        width: 190px;
+        margin-right: 20PX;
+        
+    }
+    .img6{
+        width: 190px;
+        margin-right: 20PX;
+        display: none;
+    }
+    .divv2{
+        background-color: rgba(128, 128, 128, 0.116);
+        height: 200vh;
+    }
+    .pg2{
+        font-size:large;
+        font-weight: 700;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .divv5{
+        margin-left: 40px;
+    }
+    .pg3{
+        font-size: large;
+        font-weight: 700;
+        margin-top: 5px;
+    }
+    .divv4{
+        display: flex;
+        flex-direction: column;
+        height: 10px;
+        
+    }
+    .divv8{
+        background-color: white;
+        margin-left: 250px;
+        width: 1000px;
+        height: 20vh;
+        border-radius: 10px;
+        background-color: white;
+        display: none;
+        margin-top: 40px;
+        
+    }
+    .divv6{
+        background-color: #fde9df;
+        margin-top: 0px;
+        width: 100%;
+        background-size: cover;
+        height: 95vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .head3{
+        margin-left: 20px;
+        font-size: x-large;
+        font-weight: 700;
+        color: rgba(0, 0, 0, 0.699);
+        margin-top: 40px;
+    }
+}
